@@ -15,7 +15,7 @@ Cd imodule2 --> Move jsonToCSV.py to labtainer_xfer/email_phishing
 
 Gradelab : cd labtainer/instructor/ --> gradelab email_phishing
 
-Run : python jsonToCSV.py email_phishing 
+Cd labtainer_xfer/email_phishing --> Run : python jsonToCSV.py email_phishing 
 
 Read the file : email_phishing.grades.json.csv
 
