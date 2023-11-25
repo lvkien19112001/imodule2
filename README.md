@@ -11,7 +11,7 @@ Move the Email Phishing file to :/labtainer/trunk/labs/
 
 Run : labtainer -r email_phishing
 
-Cd imodule --> Move jsonToCSV.py to labtainer_xfer/email_phishing
+Cd imodule2 --> Move jsonToCSV.py to labtainer_xfer/email_phishing
 
 Gradelab : cd labtainer/instructor/ --> gradelab email_phishing
 
