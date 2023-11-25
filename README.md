@@ -5,7 +5,7 @@ Download from git : git clone https://github.com/lvkien19112001/imodule2
 
 Access the path : cd imodule2
 
-Unzip the file : tar -xzvf imodule.tar 
+Unzip the file : tar -xvf imodule.tar 
 
 Move the Email Phishing file to :/labtainer/trunk/labs/
 
