@@ -9,9 +9,9 @@ Unzip the file : tar -xvf imodule.tar
 
 Move the Email Phishing file to :/labtainer/trunk/labs/
 
-Run : labtainer -r email_phishing
+Run : labtainer -r ptit-email-phishing
 
-Gradelab : cd labtainer/instructor/ --> gradelab email_phishing
+Gradelab : cd labtainer/instructor/ --> gradelab ptit-email-phishing
 
 
 
