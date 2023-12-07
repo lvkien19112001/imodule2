@@ -1,6 +1,8 @@
 # Imodule
 Imodule of Email Phishing is made by Le Van Kien B19DCAT100
 
+Download  : imodule https://github.com/lvkien19112001/imodule2/raw/main/imodule.tar
+
 Download from git : git clone https://github.com/lvkien19112001/imodule2
 
 Access the path : cd imodule2
